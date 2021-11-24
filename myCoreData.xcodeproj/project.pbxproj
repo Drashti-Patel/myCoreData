@@ -14,6 +14,7 @@
 		05C08627274E9CDB00386EA3 /* myCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 05C08625274E9CDB00386EA3 /* myCoreData.xcdatamodeld */; };
 		05C08629274E9CDC00386EA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05C08628274E9CDC00386EA3 /* Assets.xcassets */; };
 		05C0862C274E9CDC00386EA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05C0862A274E9CDC00386EA3 /* LaunchScreen.storyboard */; };
+		05C08634274E9E0D00386EA3 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C08633274E9E0D00386EA3 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		05C08628274E9CDC00386EA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05C0862B274E9CDC00386EA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		05C0862D274E9CDC00386EA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05C08633274E9E0D00386EA3 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				05C0861C274E9CDB00386EA3 /* AppDelegate.swift */,
 				05C0861E274E9CDB00386EA3 /* SceneDelegate.swift */,
 				05C08620274E9CDB00386EA3 /* ViewController.swift */,
+				05C08633274E9E0D00386EA3 /* DetailViewController.swift */,
 				05C08622274E9CDB00386EA3 /* Main.storyboard */,
 				05C08628274E9CDC00386EA3 /* Assets.xcassets */,
 				05C0862A274E9CDC00386EA3 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				05C08627274E9CDB00386EA3 /* myCoreData.xcdatamodeld in Sources */,
 				05C08621274E9CDB00386EA3 /* ViewController.swift in Sources */,
+				05C08634274E9E0D00386EA3 /* DetailViewController.swift in Sources */,
 				05C0861D274E9CDB00386EA3 /* AppDelegate.swift in Sources */,
 				05C0861F274E9CDB00386EA3 /* SceneDelegate.swift in Sources */,
 			);
